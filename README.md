@@ -8,13 +8,28 @@
 
 个人中心，输入官方邀请码:9cce1eee9ae241fa。直接获得1个月高级会员。
 
- # 靶场数量
+ # 靶场
 
- 目前我们已经拥有121个靶场。包含，通用漏洞，sec逻辑漏洞，护网常见漏洞，CTF等。
+ 目前我们已经拥有160个靶场。包含，通用漏洞，sec逻辑漏洞，护网常见漏洞，CTF，代码审计，超级靶场等。
 
-<img width="1727" height="507" alt="图片" src="https://github.com/user-attachments/assets/cc556319-c171-4b3a-ac04-6537f26b34bd" />
+<img width="1352" height="719" alt="图片" src="https://github.com/user-attachments/assets/6b5ba45b-9525-411e-83ed-ea8df68ab28e" />
+
+<img width="1959" height="937" alt="图片" src="https://github.com/user-attachments/assets/09b1ddd3-5612-4b49-afd4-105118df505e" />
 
 
- <img width="2091" height="1025" alt="图片" src="https://github.com/user-attachments/assets/21b68fb8-75c1-4013-9cc0-8322c850d8c6" />
+# 课程
 
-<img width="1772" height="1212" alt="图片" src="https://github.com/user-attachments/assets/5ecf575d-7d6f-43d1-a5db-a37ef42a7f83" />
+我们整理了免费的0-1的教程
+
+<img width="1317" height="1124" alt="图片" src="https://github.com/user-attachments/assets/176a1e6c-56f3-4169-9392-7692d7ad723b" />
+
+# 徽章体系
+
+我们让每次学习都有奖励
+
+<img width="1848" height="1053" alt="图片" src="https://github.com/user-attachments/assets/9c8ea31e-a518-4c70-810f-1d6d485c92f9" />
+
+# 网站导航
+
+
+<img width="2538" height="1201" alt="图片" src="https://github.com/user-attachments/assets/7b2cf732-3f17-4b15-a39e-100cbf0fcfdd" />
