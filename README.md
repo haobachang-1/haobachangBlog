@@ -10,7 +10,7 @@
 
  # 靶场
 
- 目前我们已经拥有160个靶场。包含，通用漏洞，sec逻辑漏洞，护网常见漏洞，CTF，代码审计，超级靶场等。
+ 目前我们已经拥有215个靶场。包含，通用漏洞，sec逻辑漏洞，护网常见漏洞，CTF，代码审计，超级靶场等。
 
 <img width="1352" height="719" alt="图片" src="https://github.com/user-attachments/assets/6b5ba45b-9525-411e-83ed-ea8df68ab28e" />
 
